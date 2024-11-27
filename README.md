@@ -5,10 +5,16 @@
 
 - 🌱 I’m currently learning **Nextjs,Rust**
 
+- 👨‍💻My web site [https://www.satangapp.in](https://www.satangapp.in)
+
+- 💬 Ask me about **Laravel,Masql,Mssql**
+
+- 📫 How to reach me **akachai1526@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/99akachai42714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/99akachai42714" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/akachaiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/akachaiit" height="30" width="40" /></a>
+<a href="https://twitter.com/99akachai42714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="99akachai42714" height="30" width="40" /></a>
+<a href="https://fb.com/akachaiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akachaiit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
